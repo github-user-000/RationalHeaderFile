@@ -1,4 +1,4 @@
-#include "Rational/Rational.hpp"
+#include "Rational.hpp"
 
 int main()
 {
